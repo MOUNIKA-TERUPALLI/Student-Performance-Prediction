@@ -69,6 +69,8 @@ Open:
 
 Run all cells to see dataset inspection, preprocessing, EDA, visualizations, model training and evaluation.
 
+<img width="767" height="486" alt="{8D8D5937-2D5D-4898-9EB0-AFB58711A744}" src="https://github.com/user-attachments/assets/4c6e28a2-7f7f-41ab-98ee-e1b21c658859" />
+
 ## Machine Learning Model
 Logistic Regression is used because the target is a binary classification problem:
 - Fail = 0
